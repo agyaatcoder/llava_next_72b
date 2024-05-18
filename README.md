@@ -3,7 +3,7 @@
 This repository contains code for downloading model weights, running a Jupyter server inside Modal, and performing inference using the llava_next_72b model.
 ### Setup Instructions
 
-Download the model weights to a Modal volume using seed_model_repo.py.
+Download the model weights to a Modal volume using [seed_model_repo.py](./seed_model_repo.py).
 Launch a Jupyter server inside Modal with all required libraries using launch_jupyter_llava_next.py.
 Open the llava_next_72b.ipynb notebook inside the Jupyter server to perform inference.
 
