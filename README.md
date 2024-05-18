@@ -9,9 +9,9 @@ Open the [llava_next_72b.ipynb](./llava_next_72b.ipynb) notebook inside the Jupy
 
 ### Repository Contents
 
-[README.md](./README.md): This file, providing an overview of the repository.
-[seed_model_repo.py](./seed_model_repo.py): Script for downloading model weights to a Modal volume.
-[launch_jupyter_llava_next.py](./launch_jupyter_llava_next.py): Script for launching a Jupyter server inside Modal with required libraries.
+[README.md](./README.md): This file, providing an overview of the repository.\
+[seed_model_repo.py](./seed_model_repo.py): Script for downloading model weights to a Modal volume.\
+[launch_jupyter_llava_next.py](./launch_jupyter_llava_next.py): Script for launching a Jupyter server inside Modal with required libraries.\
 [llava_next_72b.ipynb](./llava_next_72b.ipynb): Jupyter notebook for performing inference using the llava_next_72b model.
 
 ### Requirements
